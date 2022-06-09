@@ -2,7 +2,7 @@
 - 👀 I’m interested in algorithm designing, deep learning and embedded systems.
 - 🌱 I’m currently learning biomedical engineering 
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me through - mmhnbm@gmail 
+- 📫 reach me through - mmhnbm@gmail.com
 
 <!---
 Hansa2000/Hansa2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
