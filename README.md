@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hansa2000
-- 👀 I’m interested in algorithm designing, deep learning and embedded systems.
+- 👀 I’m interested in neurostimulation, algorithm designing, deep learning and wearable devices.
 - 🌱 I’m currently learning biomedical engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me through - mmhnbm@gmail.com
