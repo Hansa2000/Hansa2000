@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hansa2000
-- 👀 I’m interested in neurostimulation, algorithm designing, deep learning and wearable devices.
+- 👀 I’m interested in neurostimulation, analog and digital electronics and developing wearable devices.
 - 🌱 I’m currently learning biomedical engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me through - mmhnbm@gmail.com
