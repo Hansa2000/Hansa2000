@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hansa2000
 - 👀 I’m interested in analog and digital electronics and microfabricated sensors.
 - 🌱 I’m currently working as a junior embedded systems engineer.
-- 💞️ I’m looking to collaborate on research work on biomedical sensors.
+- 💞️ I’m looking to collaborate on research work on nano/micro sensors.
 - 📫 reach me through - mmhnbm@gmail.com
 
 <!---
