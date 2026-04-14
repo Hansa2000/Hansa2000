@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hansa2000
-- 👀 I’m interested in neurostimulation, analog and digital electronics and developing wearable devices.
-- 🌱 I’m currently learning biomedical engineering 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in analog and digital electronics and microfabricated sensors.
+- 🌱 I’m currently working as a junior embedded systems engineer.
+- 💞️ I’m looking to collaborate on research work on biomedical sensors.
 - 📫 reach me through - mmhnbm@gmail.com
 
 <!---
